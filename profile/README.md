@@ -1,4 +1,5 @@
-![Screenshot 2024-07-07 134047.png](https://cdn.dorahacks.io/static/files/1908c3f8db963d547cb1b9843c4b4239.png)
+![image](https://github.com/user-attachments/assets/9a1c095e-62b8-473c-8867-557490671f26)
+
 
 
 WarpAds is an open display advertising protocol designed for the Farcaster ecosystem, aiming to revolutionize web3 advertising much like how Facebook Ads transformed social media marketing. By enabling users to convert any existing Farcaster frames into ad-embedded WarpAds Frames, WarpAds empowers influencers and content creators to monetize their content seamlessly. Simultaneously, it provides advertisers with a robust platform for targeted advertising—all without necessitating any changes to the original server infrastructure.
@@ -12,6 +13,7 @@ As Farcaster thrives as a leading social platform in the web3 space, the need fo
 - **🛡️ [MBD.xyz](https://mbd.xyz/):** Offers data services for adaptive content and content moderation APIs for delivering personalized and compliant ads.
 - *📊 Subgraphs:* Utilizes The Graph Network for efficient querying and indexing of blockchain data.
 - *💻 Development Stack:* Built with Node.js, Express, Next.js, Solidity, and TypeScript for a scalable and maintainable codebase.
+![Screenshot 2024-07-07 134047.png](https://cdn.dorahacks.io/static/files/1908c3f8db963d547cb1b9843c4b4239.png)
 
 
 ## 🚀 Key Features
